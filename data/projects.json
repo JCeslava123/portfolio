@@ -1,0 +1,49 @@
+{
+  "developer": {
+    "name": "Your Name",
+    "role": "Full Stack Developer",
+    "bio": "I build things for the web. Passionate about clean code and great user experiences.",
+    "email": "you@email.com",
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://linkedin.com/in/yourusername"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce App",
+      "description": "A full-featured online store with cart, checkout, and admin dashboard.",
+      "tags": ["PHP", "MySQL", "JavaScript", "CSS"],
+      "github": "https://github.com/yourusername/project1",
+      "live": "https://project1.com",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Weather Dashboard",
+      "description": "Real-time weather app using OpenWeather API with 7-day forecasts.",
+      "tags": ["JavaScript", "API", "CSS", "HTML"],
+      "github": "https://github.com/yourusername/project2",
+      "live": "https://project2.com",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Task Manager",
+      "description": "A productivity app with drag-and-drop task boards and team collaboration.",
+      "tags": ["PHP", "JSON", "CSS", "HTML"],
+      "github": "https://github.com/yourusername/project3",
+      "live": "",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Portfolio Website",
+      "description": "This portfolio! Built with PHP and JSON, hosted on Render.",
+      "tags": ["PHP", "JSON", "CSS", "HTML"],
+      "github": "https://github.com/yourusername/portfolio",
+      "live": "",
+      "featured": false
+    }
+  ],
+  "skills": ["PHP", "JavaScript", "HTML", "CSS", "MySQL", "JSON", "Git", "REST APIs"]
+}

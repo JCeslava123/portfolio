@@ -1,0 +1,9 @@
+Options -Indexes
+RewriteEngine On
+RewriteBase /
+
+# Route /api/projects to the PHP file
+RewriteRule ^api/projects$ api/projects.php [L]
+
+# Block direct access to data folder
+RewriteRule ^data/ - [F,L]
