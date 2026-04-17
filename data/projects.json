@@ -10,13 +10,13 @@
   "projects": [
     {
       "id": 1,
-      "title": "E-Commerce App",
-      "description": "A full-featured online store with cart, checkout, and admin dashboard.",
-      "tags": ["PHP", "MySQL", "JavaScript", "CSS"],
-      "github": "https://github.com/yourusername/project1",
-      "live": "https://project1.com",
+      "title": "FuelWatch",
+      "description": "A real-time fuel price tracking app with map dashboard, live price feed, admin panel, and user authentication.",
+      "tags": ["React", "Node.js", "Express", "MongoDB", "Socket.io"],
+      "github": "https://github.com/JCeslava123/fuelwatch",
+      "live": "",
       "featured": true
-    },
+},
     {
       "id": 2,
       "title": "Weather Dashboard",
