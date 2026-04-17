@@ -1,11 +1,11 @@
 {
   "developer": {
-    "name": "Your Name",
-    "role": "Full Stack Developer",
-    "bio": "I build things for the web. Passionate about clean code and great user experiences.",
-    "email": "you@email.com",
-    "github": "https://github.com/yourusername",
-    "linkedin": "https://linkedin.com/in/yourusername"
+    "name": "John Christopher C. Eslava",
+    "role": "Software Developer",
+    "bio": "Passionate about building efficient and scalable web applications. Experienced in PHP, JavaScript, and MySQL. Always eager to learn new technologies and improve my skills.",
+    "email": "johnchristophereslava1@gmail.com",
+    "github": "#",
+    "linkedin": "https://www.linkedin.com/in/john-chistopher-eslava-79b356363/"
   },
   "projects": [
     {
@@ -45,5 +45,5 @@
       "featured": false
     }
   ],
-  "skills": ["PHP", "JavaScript", "HTML", "CSS", "MySQL", "JSON", "Git", "REST APIs"]
+  "skills": ["PHP (Laravel)", "JavaScript", "C#", "HTML", "CSS", "MySQL", "JSON", "Git", "REST APIs"]
 }
